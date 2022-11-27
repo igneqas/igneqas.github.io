@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ignas site</title>
+    <link>https://igneqas.github.io/posts/</link>
+    <description>Recent content in Posts on Ignas site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Nov 2022 22:25:48 +0200</lastBuildDate><atom:link href="https://igneqas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naujas puslapis</title>
+      <link>https://igneqas.github.io/posts/newpage/</link>
+      <pubDate>Sun, 27 Nov 2022 22:25:48 +0200</pubDate>
+      
+      <guid>https://igneqas.github.io/posts/newpage/</guid>
+      <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</description>
+      <content>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
